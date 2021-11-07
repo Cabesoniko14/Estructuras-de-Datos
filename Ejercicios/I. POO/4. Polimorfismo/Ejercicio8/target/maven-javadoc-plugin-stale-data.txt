@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Ejercicio8 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Ejercicio8 1.0-SNAPSHOT API'
+com.mycompany.ejercicio8
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/src/main/java = 1629990614679
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/tag-search-index.js = 1630423680301
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/overview-tree.html = 1630423680261
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/module-search-index.js = 1630423680299
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/index.html = 1630423680348
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/package-search-index.js = 1630423680300
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/jquery-ui.overrides.css = 1630423680402
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/index-all.html = 1630423680347
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/allpackages-index.html = 1630423680299
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/member-search-index.js = 1630423680300
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/script.js = 1630423680357
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/stylesheet.css = 1630423680356
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/help-doc.html = 1630423680352
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/javadoc.sh = 1630423532889
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/element-list = 1630423680159
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/allclasses-index.html = 1630423680292
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/type-search-index.js = 1630423680300
+/Users/javi/Desktop/ITAM/5to Semestre/Estructuras de Datos/4. Polimorfismo/Ejercicio8/target/site/apidocs/search.js = 1630423680395

@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Calculadora 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Calculadora 1.0-SNAPSHOT API'
+com.mycompany.calculadora
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/src/main/java/.DS_Store = 1632871484746
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/src/main/java = 1632871690717
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/tag-search-index.js = 1632884768245
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/overview-tree.html = 1632884768216
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/module-search-index.js = 1632884768244
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/index.html = 1632884768265
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/package-search-index.js = 1632884768244
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/jquery-ui.overrides.css = 1632884768315
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/serialized-form.html = 1632884768175
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/index-all.html = 1632884768264
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/allpackages-index.html = 1632884768243
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/member-search-index.js = 1632884768245
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/script.js = 1632884768277
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/stylesheet.css = 1632884768275
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/help-doc.html = 1632884768270
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/element-list = 1632884768094
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/allclasses-index.html = 1632884768241
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/type-search-index.js = 1632884768245
+/Users/javi/Desktop/Proyecto 1 ED Reporte/Proyecto en NetBeans/Calculadora/target/site/apidocs/search.js = 1632884768307
